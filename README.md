@@ -1,7 +1,7 @@
-# contactor
-This repo is for the battery-to-invertor contactor control, 
+#genfield
+This repo started as a clone of the winch battery-to-invertor contactor control repo. See GliderWinchItems/contactor.
 
-The hardware uses the f103Ard pcb (see GliderWinchCommons/embed/svn_sensor/hw/trunk/eagle/f103Ard)
+The hardware uses the f103Ard pcb (see GliderWinchCommons/embed/svn_sensor/hw/trunk/eagle/f103Ard) to control the generator field and throttle.
 
 The processor is Blue Pill STM32F103 sub-board that mounts on the pcb.
 The key configuration items of the board--
